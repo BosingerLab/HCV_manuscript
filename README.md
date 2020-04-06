@@ -1,4 +1,4 @@
-Modified BALDR pipeline for HCV manuscript:
+Modified BALDR pipeline (https://github.com/BosingerLab/BALDR) for HCV manuscript:
  - removed max_target_seqs max_hsps for igblastn
  - added MINLEN:50 for trimmomatic
 
